@@ -2,11 +2,15 @@
 Nén HTML/CSS/JS
 
 > Sử dụng
-Gán vào header, trước
-`html
+Gán vào header, trước:
+
+```html
 <!DOCTYPE html>
-`
+```
+
+
 **PHP**
-`php
+
+```php
 <?php include('minify_output.php'); ?>
-`
+```
